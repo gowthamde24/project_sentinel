@@ -1,0 +1,4 @@
+2026-08-28 10:00:00 - ERROR - system - SLAM module failure: tracking lost
+2026-08-28 10:01:00 - WARN - sensors - High drift detected
+2026-08-28 10:02:00 - INFO - main - System restarted
+
